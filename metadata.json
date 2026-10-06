@@ -1,0 +1,6 @@
+{
+  "name": "Controle financeiro",
+  "description": "Aplicativo moderno e profissional para controle financeiro de clientes que compram fiado ou contratam serviços a prazo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
